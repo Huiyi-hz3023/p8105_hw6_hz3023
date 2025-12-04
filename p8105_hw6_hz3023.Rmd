@@ -1,0 +1,17 @@
+---
+title: "p8105_hw6_hz3023"
+author: "Huiyi Zhu"
+date: "2025-12-04"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Prepare
+```{r}
+library(ggplot2)
+```
+
+## Problem 1
